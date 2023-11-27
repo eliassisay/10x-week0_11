@@ -157,3 +157,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Data
+/Anonymized_B6SlackExport_25Nov23
